@@ -1,5 +1,14 @@
 # WebSnapse Reloaded
 
+### Preliminaries
+
+```
+Requirements:
+
+Docker Desktop: ^4
+Git: ^2.40.0
+```
+
 To download and run a local server of WebSnapse reloaded, run the commands below:
 
 ```
